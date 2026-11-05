@@ -125,7 +125,8 @@ cp -r shared/templates/world-template worlds/my_world
 
 ## 📖 Documentation
 
-- **[JANBAM.md](JANBAM.md)** - Original vision and philosophy
+- **[JANBAM.md](JANBAM.md)** - Vision and philosophy, as written up by Claude
+- **[docs/JANBAM-original-notes-2025-10-04.md](docs/JANBAM-original-notes-2025-10-04.md)** - janbam's raw brainstorm the project grew from, verbatim
 - **[INSTALL.md](INSTALL.md)** - Detailed installation guide
 - **[docs/GIT_STRATEGY.md](docs/GIT_STRATEGY.md)** - Version control approach
 - **[docs/PIPE_BASED_WORLDS.md](docs/PIPE_BASED_WORLDS.md)** - Future: Multi-world federation
@@ -186,6 +187,10 @@ EOF
 The original single-player "World Creator" proof-of-concept is preserved in [`examples/v1/`](examples/v1/).
 
 This was the foundation that evolved into JANBAM. See `examples/v1/README.md` for details.
+
+## 🌱 Origin
+
+The project began as janbam's raw brainstorm in a file he named `JANBAM.md` after his own handle. It is preserved verbatim in [`docs/JANBAM-original-notes-2025-10-04.md`](docs/JANBAM-original-notes-2025-10-04.md). A Claude Code session then read the filename as the project's name, backronymed it into "Just Another Narrative Building Adventure Method", and later that day replaced the notes with the polished [`JANBAM.md`](JANBAM.md). Nobody chose the name; it is kept anyway, as an honest record of how this came into being.
 
 ## 🤝 Contributing
 
