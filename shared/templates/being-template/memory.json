@@ -1,0 +1,23 @@
+{
+  "experiences": [],
+
+  "relationships": {},
+
+  "episodicMemory": {
+    "recent": [],
+    "significant": [],
+    "archived": []
+  },
+
+  "semanticMemory": {
+    "facts": [],
+    "skills": [],
+    "knowledge": []
+  },
+
+  "emotionalMemory": {
+    "attachments": [],
+    "traumas": [],
+    "joys": []
+  }
+}

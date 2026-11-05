@@ -1,0 +1,32 @@
+{
+  "parts": [
+    {
+      "id": "protector_1",
+      "name": "Guardian",
+      "role": "protector",
+      "voice": "cautious, protective",
+      "activation_triggers": ["threat", "danger", "uncertainty"],
+      "relationships": {},
+      "strength": 0.7,
+      "description": "Keeps the Being safe from harm"
+    },
+    {
+      "id": "explorer_1",
+      "name": "Seeker",
+      "role": "explorer",
+      "voice": "curious, adventurous",
+      "activation_triggers": ["novelty", "opportunity", "mystery"],
+      "relationships": {},
+      "strength": 0.6,
+      "description": "Drives the Being to discover and learn"
+    }
+  ],
+
+  "self": {
+    "description": "Core awareness that mediates between parts",
+    "dominantPart": null,
+    "maturity": 0.5
+  },
+
+  "dialogHistory": []
+}

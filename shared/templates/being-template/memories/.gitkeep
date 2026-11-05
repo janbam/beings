@@ -1,0 +1,13 @@
+# Being Memories Directory
+
+This directory stores persistent memories for the Being across sessions.
+
+Memories are managed through the Memory Tool interface:
+- view: View directory or file contents
+- create: Create new memory files
+- str_replace: Edit existing memories
+- insert: Add to memories
+- delete: Remove memories
+- rename: Reorganize memories
+
+Beings automatically check this directory before taking actions.

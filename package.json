@@ -1,0 +1,25 @@
+{
+  "name": "world-creator-output-style",
+  "version": "1.0.0",
+  "description": "Text adventure output style with dynamic world state management and persistent memory",
+  "main": "world-engine.js",
+  "scripts": {
+    "demo": "node demo-adventure.js",
+    "demo:chronicle": "node chronicle-demo.js",
+    "help": "node world-engine.js help"
+  },
+  "keywords": [
+    "text-adventure",
+    "world-building",
+    "interactive-fiction",
+    "claude-code",
+    "narrative-ai",
+    "persistent-memory"
+  ],
+  "author": "janbam",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.1.8",
+    "zod": "^3.25.76"
+  }
+}
