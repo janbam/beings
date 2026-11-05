@@ -73,8 +73,8 @@ claude-code-text-adventure-CLI/
 
 ```bash
 # Clone repository
-git clone https://github.com/janbam/janbam-beings.git
-cd janbam-beings
+git clone https://github.com/janbam/beings.git
+cd beings
 
 # Install dependencies
 npm install
